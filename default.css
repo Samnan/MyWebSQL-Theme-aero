@@ -39,7 +39,7 @@
 }
 
 .ui-layout-south {
-	background-color: #fff;
+	background: transparent;
 	height: 32px!important;
 	overflow: hidden;
 }
